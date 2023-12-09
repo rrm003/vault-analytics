@@ -1,1 +1,1 @@
-# vault-anlytics
+# vault-analytics
